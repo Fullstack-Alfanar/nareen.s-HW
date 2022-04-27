@@ -1,2 +1,5 @@
 # nareen.s-HW
-homework's
+## three homeworks:
+-callback
+-JSON
+-storage
