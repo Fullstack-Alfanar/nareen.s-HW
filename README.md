@@ -2,4 +2,4 @@
 ## three homeworks:
 * callback
 * JSON
-- storage
+* storage
